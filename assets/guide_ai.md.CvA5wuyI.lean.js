@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as t,a6 as e}from"./chunks/framework.DMOj2-2K.js";const c=JSON.parse('{"title":"AI","description":"","frontmatter":{},"headers":[],"relativePath":"guide/ai.md","filePath":"guide/ai.md"}'),l={name:"guide/ai.md"};function n(h,s,p,d,o,r){return i(),t("div",null,[...s[0]||(s[0]=[e("",22)])])}const u=a(l,[["render",n]]);export{c as __pageData,u as default};
