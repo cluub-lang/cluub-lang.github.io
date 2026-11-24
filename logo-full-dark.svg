@@ -1,14 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 96"><title>Cluub</title>
-<g transform="scale(1.5)">
-  <path d="M28.5 40 L24 58.5 Q23.6 60 25.2 60 H38.8 Q40.4 60 40 58.5 L35.5 40 Z" fill="#F1F5F9"/>
-  <circle cx="19.5" cy="36" r="12.5" fill="#0072B2" stroke="#1B1B1F" stroke-width="2.5"/>
-  <circle cx="44.5" cy="36" r="12.5" fill="#E69F00" stroke="#1B1B1F" stroke-width="2.5"/>
-  <circle cx="32" cy="18.5" r="12.5" fill="#009E73" stroke="#1B1B1F" stroke-width="2.5"/></g>
-<g transform="translate(112 0)"><g fill="none" stroke="#F1F5F9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 96"><title>Cluub</title>
+<g fill="none" stroke="#F1F5F9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
     <path d="M36.7 47.3 A18 18 0 1 0 36.7 72.7"/>
     <path d="M58 14 V78"/>
-    <path d="M76 42 V62 A16 16 0 0 0 108 62 V42 M108 42 V78"/>
-    <path d="M122 42 V62 A16 16 0 0 0 154 62 V42 M154 42 V78"/>
     <path d="M172 14 V78 M172 60 A18 18 0 1 0 208 60 A18 18 0 1 0 172 60"/>
-  </g></g>
+  </g>
+<g>
+  <path d="M88.6 40.8 L93.9 14.4 L112.4 27.6 Z M141.4 40.8 L136.1 14.4 L117.6 27.6 Z" fill="#E69F00" stroke="#7A4E00" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M93.9 35.5 L95.9 22.3 L105.8 29.6 Z M136.1 35.5 L134.1 22.3 L124.2 29.6 Z" fill="#B97A00"/>
+  <circle cx="115.0" cy="54.0" r="29.0" fill="#E69F00" stroke="#7A4E00" stroke-width="2.2"/>
+  <path d="M88.6 56.6 L76.7 54.0 M88.6 62.6 L78.0 65.9 M141.4 56.6 L153.3 54.0 M141.4 62.6 L152.0 65.9" fill="none" stroke="#0072B2" stroke-width="2.9" stroke-linecap="round"/>
+  <ellipse cx="104.4" cy="50.0" rx="4.0" ry="5.9" fill="#1E293B"/>
+  <ellipse cx="125.6" cy="50.0" rx="4.0" ry="5.9" fill="#1E293B"/>
+  <circle cx="105.8" cy="47.9" r="1.5" fill="#FFFFFF"/>
+  <circle cx="126.9" cy="47.9" r="1.5" fill="#FFFFFF"/>
+  <path d="M111.6 59.3 L118.4 59.3 L115.0 63.2 Z" fill="#009E73" stroke="#1E293B" stroke-width="1.2" stroke-linejoin="round"/>
+  <path d="M105.8 65.9 A4.6 4.6 0 0 0 115.0 65.9 A4.6 4.6 0 0 0 124.2 65.9" fill="none" stroke="#1E293B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g>
 </svg>
