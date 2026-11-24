@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 96"><title>Cluub</title>
+<g transform="scale(1.5)">
+  <path d="M28.5 40 L24 58.5 Q23.6 60 25.2 60 H38.8 Q40.4 60 40 58.5 L35.5 40 Z" fill="#F1F5F9"/>
+  <circle cx="19.5" cy="36" r="12.5" fill="#0072B2" stroke="#1B1B1F" stroke-width="2.5"/>
+  <circle cx="44.5" cy="36" r="12.5" fill="#E69F00" stroke="#1B1B1F" stroke-width="2.5"/>
+  <circle cx="32" cy="18.5" r="12.5" fill="#009E73" stroke="#1B1B1F" stroke-width="2.5"/></g>
+<g transform="translate(112 0)"><g fill="none" stroke="#F1F5F9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36.7 47.3 A18 18 0 1 0 36.7 72.7"/>
+    <path d="M58 14 V78"/>
+    <path d="M76 42 V62 A16 16 0 0 0 108 62 V42 M108 42 V78"/>
+    <path d="M122 42 V62 A16 16 0 0 0 154 62 V42 M154 42 V78"/>
+    <path d="M172 14 V78 M172 60 A18 18 0 1 0 208 60 A18 18 0 1 0 172 60"/>
+  </g></g>
+</svg>

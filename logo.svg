@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>Cluub logo: a club made of three circles for frontend, backend and AI</title>
+  <path d="M28.5 40 L24 58.5 Q23.6 60 25.2 60 H38.8 Q40.4 60 40 58.5 L35.5 40 Z" fill="#1E293B"/>
+  <circle cx="19.5" cy="36" r="12.5" fill="#0072B2" stroke="#FFFFFF" stroke-width="2.5"/>
+  <circle cx="44.5" cy="36" r="12.5" fill="#E69F00" stroke="#FFFFFF" stroke-width="2.5"/>
+  <circle cx="32" cy="18.5" r="12.5" fill="#009E73" stroke="#FFFFFF" stroke-width="2.5"/>
+</svg>
