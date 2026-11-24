@@ -1,1 +1,0 @@
-import{_ as i,o as a,c as t,a6 as e}from"./chunks/framework.DtfPIzdJ.js";const c=JSON.parse('{"title":"AI","description":"","frontmatter":{},"headers":[],"relativePath":"guide/ai.md","filePath":"guide/ai.md"}'),n={name:"guide/ai.md"};function l(h,s,p,o,d,r){return a(),t("div",null,[...s[0]||(s[0]=[e("",22)])])}const u=i(n,[["render",l]]);export{c as __pageData,u as default};
